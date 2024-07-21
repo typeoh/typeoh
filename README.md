@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**typeoh/typeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub! I'm a product-focused engineering leader with a love for building innovative tools and mentoring. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- **🌐 Currently:** Leading internal tools engineering teams at Trade Republic
+- **🛠️ Tech Stack:** TypeScript, Node.js, Vue, React, AWS, all things web
+- **🤓 Passionate about:** UX, Product Development, Machine Learning
+- **🎨 Hobbies:** Design 🖌️, Mentoring 🙌, Cycling 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Let's Connect
+- **📧 Say hello:** [hello@codemotiondesign.com](mailto:hello@codemotiondesign.com)
+- **💼 LinkedIn:** [Shauna Griffin](https://www.linkedin.com/in/shaunagriffin)
